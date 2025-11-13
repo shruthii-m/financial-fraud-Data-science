@@ -1,0 +1,28 @@
+# Essential Data Science Libraries (Python 3.13 Compatible)
+# Install these core packages first
+pandas>=2.0.0
+numpy>=1.24.0
+scikit-learn>=1.3.0
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# Machine Learning
+xgboost>=2.0.0
+imbalanced-learn>=0.11.0
+
+# Visualization
+plotly>=5.15.0
+
+# Web Application (Install separately if needed)
+# streamlit>=1.28.0
+
+# Data Processing
+joblib>=1.3.0
+tqdm>=4.66.0
+python-dateutil>=2.8.0
+
+# Model Interpretation (Install separately if needed)
+# shap>=0.43.0
+
+# Development
+pytest>=7.4.0

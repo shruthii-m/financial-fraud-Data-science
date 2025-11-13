@@ -1,0 +1,4 @@
+# Jupyter Notebook Requirements
+notebook>=6.4.0
+ipywidgets>=7.7.0
+ipykernel>=6.15.0
