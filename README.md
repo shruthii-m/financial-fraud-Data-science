@@ -175,6 +175,10 @@ conda activate fraud_detection
 
 ```bash
 pip install -r requirements.txt
+pip install -r requirements-core.txt
+pip install -r requirements-jupyter.txt
+pip install -r requirements-minimal.txt
+pip install -r requirements-streamlit.txt
 ```
 
 ### Step 4: Download Dataset
