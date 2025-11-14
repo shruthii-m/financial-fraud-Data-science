@@ -163,6 +163,9 @@ cd financial_fraud_detection
 python -m venv fraud_detection_env
 source fraud_detection_env/bin/activate  # On Windows: fraud_detection_env\\Scripts\\activate
 
+#on linux
+source fraud_detection_env/bin/activate
+
 # Using conda
 conda create -n fraud_detection python=3.8
 conda activate fraud_detection
